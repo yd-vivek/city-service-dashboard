@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "City Hospital",
+    "type": "hospital",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "name": "Central Police Station",
+    "type": "police",
+    "lat": 12.8716,
+    "lng": 77.5746,
+    "status": "inactive"
+  },
+  {
+    "id": 3,
+    "name": "Central Park",
+    "type": "park",
+    "lat": 12.9516,
+    "lng": 77.5336,
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "name": "City Hospital",
+    "type": "hospital",
+    "lat": 12.9416,
+    "lng": 77.5946,
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "name": "Central Police Station",
+    "type": "police",
+    "lat": 12.9316,
+    "lng": 77.5116,
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "name": "Central Park",
+    "type": "park",
+    "lat": 12.9236,
+    "lng": 77.5946,
+    "status": "inactive"
+  }
+]
